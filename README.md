@@ -2,14 +2,13 @@
 
 A ideia da aplicação é calcular o ROI e comparar com o de clientes do **olist** da mesma categoria, para que o lead/cliente veja a vantagem de anunciar conosco. 
 
+------------
+### Figma
 
-**Telas Figma**
+[Link com os prototipos de tela](https://www.figma.com/proto/jXGfMRoyTOH5fJRu37KPtE/Untitled?node-id=7%3A7&scaling=scale-down "Link do Figma com os prototipos de tela")
 
-Link para acesso:
-https://www.figma.com/proto/jXGfMRoyTOH5fJRu37KPtE/Untitled?node-id=7%3A7&scaling=scale-down
-
-
-**Pré requisitos**
+------------
+### Pré requisitos
 - NPM
 - Yarn (optional)
 - Cocoa Pods
@@ -17,8 +16,8 @@ https://www.figma.com/proto/jXGfMRoyTOH5fJRu37KPtE/Untitled?node-id=7%3A7&scalin
 - Android Studio
 - XCode
 
-
-**Instalações**
+------------
+### Instalações
 - Gerenciador de pacotes para Javascript -> Yarn
 1. para instalar: 
 ```shell
