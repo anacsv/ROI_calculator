@@ -21,10 +21,20 @@ https://www.figma.com/proto/jXGfMRoyTOH5fJRu37KPtE/Untitled?node-id=7%3A7&scalin
 **Instalações**
 - Gerenciador de pacotes para Javascript -> Yarn
 1. para instalar: 
-  yarn install
+```shell
+yarn install
+```
 2. em seguida, entre em sua pasta ios e execute: 
-  pod install
+```shell
+ pod install
+```
 3. instalar todas as dependências do projeto: 
+```shell
   yarn run android
-4. para executar o projeto em um dispositivo (Android: o emulador ou dispositivo deve ser aberto / conectado antes de executar o comando; IOS: Não é necessário ter o emulador ou dispositivo aberto / conectado ):
-  yarn run ios
+  ```
+4. para executar o projeto em um dispositivo: 
+*(Android: o emulador ou dispositivo deve ser aberto / conectado antes de executar o comando; 
+IOS: não é necessário ter o emulador ou dispositivo aberto / conectado)*
+```shell
+yarn run ios
+```
