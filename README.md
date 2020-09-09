@@ -3,7 +3,7 @@
 A ideia da aplicação é calcular o ROI e comparar com o de clientes do **olist** da mesma categoria, para que o lead veja a vantagem de anunciar conosco
 
 ### Anexo ao app [Olist Shops](https://www.olistshops.com)
-Repositório do projeto [aqui](https://github.com/olist/shops-app)
+Repositório do projeto principal [aqui](https://github.com/olist/shops-app)
 
 ------------
 ### Figma
@@ -26,17 +26,17 @@ Repositório do projeto [aqui](https://github.com/olist/shops-app)
 ```shell
 yarn install
 ```
-2. em seguida, entre em sua pasta ios e execute: 
+2. em seguida, entre em sua pasta ios e execute o comando abaixo para instalar todas as dependências do projeto:
 ```shell
  pod install
 ```
-3. instalar todas as dependências do projeto: 
+3. para executar o projeto em um dispositivo android: 
+>*(o emulador ou dispositivo deve ser aberto / conectado antes de executar o comando)*
 ```shell
   yarn run android
   ```
-4. para executar o projeto em um dispositivo: 
->*(Android: o emulador ou dispositivo deve ser aberto / conectado antes de executar o comando; 
-IOS: não é necessário ter o emulador ou dispositivo aberto / conectado)*
+4. para executar o projeto em um dispositivo IOS: 
+>*(não é necessário ter o emulador ou dispositivo aberto / conectado)*
 ```shell
 yarn run ios
 ```
