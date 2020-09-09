@@ -33,7 +33,7 @@ yarn install
   yarn run android
   ```
 4. para executar o projeto em um dispositivo: 
- *(Android: o emulador ou dispositivo deve ser aberto / conectado antes de executar o comando; 
+>*(Android: o emulador ou dispositivo deve ser aberto / conectado antes de executar o comando; 
 IOS: não é necessário ter o emulador ou dispositivo aberto / conectado)*
 ```shell
 yarn run ios
