@@ -1,7 +1,9 @@
 # Calculadora de ROI (Return on Investment)
 
 A ideia da aplicação é calcular o ROI e comparar com o de clientes do **olist** da mesma categoria, para que o lead veja a vantagem de anunciar conosco. 
-Será anexo ao app [Olist Shops](https://www.olistshops.com).
+
+###Anexo ao app [Olist Shops](https://www.olistshops.com).
+Repositório do projeto [aqui](https://github.com/olist/shops-app)
 
 ------------
 ### Figma
