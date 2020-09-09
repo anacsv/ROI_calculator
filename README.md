@@ -32,12 +32,17 @@ yarn install
  pod install
 ```
 3. para executar o projeto em um dispositivo android: 
->*(o emulador ou dispositivo deve ser aberto / conectado antes de executar o comando)*
+>*o emulador ou dispositivo deve ser aberto / conectado antes de executar o comando*
 ```shell
   yarn run android
   ```
 4. para executar o projeto em um dispositivo IOS: 
->*(não é necessário ter o emulador ou dispositivo aberto / conectado)*
+>*não é necessário ter o emulador ou dispositivo aberto / conectado*
 ```shell
 yarn run ios
 ```
+
+### Comunicação com backend
+A integração é feita via requisições HTTP, com o uso da biblioteca [Axios](https://www.npmjs.com/package/react-native-axios)
+>*[Aqui](https://github.com/olist/shops-app/blob/master/src/services/api.ts) tem um exemplo de implementação do consumo de API*
+
