@@ -6,7 +6,7 @@ Será anexo ao app [Olist Shops](https://www.olistshops.com).
 ------------
 ### Figma
 
-[Link com os prototipos de tela](https://www.figma.com/proto/jXGfMRoyTOH5fJRu37KPtE/Untitled?node-id=7%3A7&scaling=scale-down "Link do Figma com os prototipos de tela")
+[Prototipos das telas](https://www.figma.com/proto/jXGfMRoyTOH5fJRu37KPtE/Untitled?node-id=7%3A7&scaling=scale-down "Link do Figma com os prototipos de tela")
 
 ------------
 ### Pré requisitos
