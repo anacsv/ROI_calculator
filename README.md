@@ -2,8 +2,8 @@
 
 A ideia da aplicação é calcular o ROI e comparar com o de clientes do **olist** da mesma categoria, para que o lead veja a vantagem de anunciar conosco
 
- Anexo ao app [Olist Shops](https://www.olistshops.com)
->*Repositório do projeto principal [aqui](https://github.com/olist/shops-app)*
+ Anexo ao app [Olist Store](https://app.olist.com/)
+>*Repositório do projeto principal [aqui](https://github.com/olist/mobile-app)*
 
 ------------
 ### Figma
